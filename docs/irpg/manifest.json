@@ -1,51 +1,139 @@
 {
+  "root": {
+    "color": "#ffffff",
+    "files": [
+      "After_Action_Review_(AAR).pdf",
+      "Briefing_Checklist.pdf",
+      "Communication_Responsibilities.pdf",
+      "Firefighter_Stress_Management.pdf",
+      "Human_Factor_Barriers_to_Situation_Awareness.pdf",
+      "LACoFD_Emergency_Incident_Expectations.pdf",
+      "Leader's_Intent.pdf",
+      "Operational_Leadership.pdf",
+      "Sizeup_Report.pdf",
+      "Standard_Firefighting_Orders.pdf",
+      "Watch_Out_Situations.pdf"
+    ]
+  },
   "Operational Engagement": {
     "color": "#8AF2A9",
     "files": [
-      "Fire_Safety.pdf",
-      "Evacuation_Plan.pdf"
+      "Common_Denominators_of_Fire_Behavior_on_Tragedy_Fires.pdf",
+      "Common_Tactical_Hazards.pdf",
+      "Downhill_Fireline_Construction_Checklist.pdf",
+      "Firing_Operations.pdf",
+      "Indicators_of_Incident_Complexity.pdf",
+      "LCES.pdf",
+      "Night_Shift:Day_Shift_Transitions.pdf",
+      "Planning_for_Medical_Emergencies.pdf",
+      "Safety_Zone_Formula.pdf",
+      "Safety_Zones.pdf",
+      "Wildland_Risk_Management.pdf",
+      "Wildland_Urban_Interface_(WUI)_Firefighting.pdf"
     ]
   },
   "Specific Hazards": {
     "color": "#EDEDED",
     "files": [
-      "Incident_Report_1.pdf",
-      "Incident_Report_2.pdf"
+      "Hazard_Control.pdf",
+      "Hazard_Tree_Safety.pdf",
+      "How_to_Properly_Refuse_Risk.pdf",
+      "Last_Resort_Survival.pdf",
+      "Oil_and_Gas_Site_Safety.pdf",
+      "Powerline_Safety.pdf",
+      "Roadside_Response_Safety.pdf",
+      "Smoke_Hazards_and_Mitigation.pdf",
+      "Smoke_and_Transportation_Safety.pdf",
+      "Thunderstorm_Safety.pdf",
+      "Unexploded_Ordnance_Safety.pdf"
     ]
   },
   "Fire Environment": {
     "color": "#ED871F",
     "files": [
-      "Emergency_Contacts.pdf",
-      "Safety_Checklist.pdf"
+      "Critical_Fire_Weather.pdf",
+      "Fine_Fuel_Moisture_and_Fire_Behavior.pdf",
+      "Fine_Fuel_Moisure_(FFM)_and_Probability_of_Ignition_(PIG).pdf",
+      "Fire_Assessment_Process.pdf",
+      "Fire_Behavior_Obsrvations_&_Interpretations.pdf",
+      "Fire_Danger_Ratings_and_Interpretations.pdf",
+      "Important_Winds_for_Interpreting_Forecasts.pdf",
+      "In_Your_Fire_Weather_Forecast.pdf",
+      "Interpret_the_Smoke_Column.pdf",
+      "Look_Up,_Down,_and_Around.pdf",
+      "Visual_Estimate_of_Surface_Windspeed.pdf"
     ]
   },
   "All Hazard Response": {
     "color": "#F7EE94",
     "files": [
-      "Emergency_Contacts.pdf",
-      "Safety_Checklist.pdf"
+      "All_Hazard_Incident_Response.pdf",
+      "HazMat_Classification_for_Fixed_Facilities.pdf",
+      "HazMat_Isolation_Distances.pdf",
+      "Hazmat_Incident_Operations.pdf",
+      "Local_Disaster_Response.pdf",
+      "Structure_Hazard_Marking_System.pdf",
+      "Vehicle_Accident_Operations.pdf"
     ]
   },
   "Aviation": {
     "color": "#699BFF",
     "files": [
-      "Emergency_Contacts.pdf",
-      "Safety_Checklist.pdf"
+      "Aerial_Delivered_Retardant_:_Water_Drop_Zone_Considerations.pdf",
+      "Aircraft_Mishap_Response_Actions.pdf",
+      "Aviation_User_Checklist.pdf",
+      "Aviation_Watch_Out_Situations.pdf",
+      "Directing_Retardant_and_Bucket_Drops.pdf",
+      "Helicopter_Hand_Signals.pdf",
+      "Helicopter_Landing_Area_Selection.pdf",
+      "Helicopter_Passenger_Briefing_and_PPE.pdf",
+      "Longline_Mission.pdf",
+      "One-Way_Helispot.pdf",
+      "Paracargo_Operations_Safety.pdf",
+      "Principles_for_Airtanker_and_Water_Scooper_Use.pdf",
+      "Recommended_Retardant_Coverage_Levels.pdf",
+      "Retardant_and_Suppressant_Use_Reminders.pdf",
+      "SAFECOM_Reporting_System.pdf",
+      "Two-Way_Helispot.pdf",
+      "Unmanned_Aircraft_Systems_(UAS)_in_Wildland_Fire_Operations.pdf",
+      "Weight_Estimates.pdf"
     ]
   },
   "Other References": {
     "color": "#FFFFFF",
     "files": [
-      "Emergency_Contacts.pdf",
-      "Safety_Checklist.pdf"
+      "Aquatic_Invasive_Species.pdf",
+      "Average_Perimeter_in_Chains.pdf",
+      "Chainsaw_Operations.pdf",
+      "Fire_Information_is_Everyone’s_Job.pdf",
+      "Fire_Origin_Protection_Checklist.pdf",
+      "Fireline_Location.pdf",
+      "High_Pressure_Pump_Information.pdf",
+      "Line_Spike.pdf",
+      "Minimum_Impact_Strategy_Tactics.pdf",
+      "NWCG_Engine_:_Water_Tender_Typing_Standards.pdf",
+      "Phonetic_Alphabet.pdf",
+      "Reporting_Fire_Chemical_Misapplication.pdf",
+      "Strategy_-_Direct_Attack.pdf",
+      "Strategy_–_Indirect_Attack.pdf",
+      "Troubleshooting_a_High_Pressure_Pump.pdf",
+      "Water_Delivery_Information.pdf",
+      "Working_with_Heavy_Equipment.pdf"
     ]
   },
   "Emergency Medical Care": {
     "color": "#FFC2C2",
     "files": [
-      "Emergency_Contacts.pdf",
-      "Safety_Checklist.pdf"
+      "Burn_Injuries.pdf",
+      "CPR.pdf",
+      "Emergency_Medical_Care_Guidelines.pdf",
+      "Fatality_Procedures.pdf",
+      "Heat-Related_Injury.pdf",
+      "Helicopter_Extraction_Operations.pdf",
+      "Medical_Incident_Report.pdf",
+      "Multi-Casualty_Triage_System.pdf",
+      "Patient_Assessment.pdf",
+      "Specific_Treatments.pdf"
     ]
   }
 }
