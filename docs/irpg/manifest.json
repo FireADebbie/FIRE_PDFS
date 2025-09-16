@@ -1,0 +1,51 @@
+{
+  "Operational Engagement": {
+    "color": "#8AF2A9",
+    "files": [
+      "Fire_Safety.pdf",
+      "Evacuation_Plan.pdf"
+    ]
+  },
+  "Specific Hazards": {
+    "color": "#EDEDED",
+    "files": [
+      "Incident_Report_1.pdf",
+      "Incident_Report_2.pdf"
+    ]
+  },
+  "Fire Environment": {
+    "color": "#ED871F",
+    "files": [
+      "Emergency_Contacts.pdf",
+      "Safety_Checklist.pdf"
+    ]
+  },
+  "All Hazard Response": {
+    "color": "#F7EE94",
+    "files": [
+      "Emergency_Contacts.pdf",
+      "Safety_Checklist.pdf"
+    ]
+  },
+  "Aviation": {
+    "color": "#699BFF",
+    "files": [
+      "Emergency_Contacts.pdf",
+      "Safety_Checklist.pdf"
+    ]
+  },
+  "Other References": {
+    "color": "#FFFFFF",
+    "files": [
+      "Emergency_Contacts.pdf",
+      "Safety_Checklist.pdf"
+    ]
+  },
+  "Emergency Medical Care": {
+    "color": "#FFC2C2",
+    "files": [
+      "Emergency_Contacts.pdf",
+      "Safety_Checklist.pdf"
+    ]
+  }
+}
